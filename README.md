@@ -19,6 +19,7 @@
 - More on lit (in Spanish): https://lenguajejs.com/webcomponents/lit/css-en-litelement/
 - Web components and headless CMS: https://dev.to/jakelumetta/using-web-components-with-a-headless-cms-25hf
 - Functional lit element: https://github.com/evtaylor/functional-lit-element
+- **Storybook and lit**: https://piyushsinha.tech/introduction-to-storybook-for-web-components
 
 ## SSGs
 
