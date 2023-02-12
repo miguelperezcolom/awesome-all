@@ -17,3 +17,11 @@
 
 - Vuepress: https://vuepress.vuejs.org/
 - Hugo (the one I've always chosen): https://gohugo.io/
+
+
+## Security
+
+- CORS: https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+- More CORS: https://web.dev/i18n/en/cross-origin-resource-sharing/
+- Keycloak js adapter: https://www.keycloak.org/docs/latest/securing_apps/#_javascript_adapter
+- 
