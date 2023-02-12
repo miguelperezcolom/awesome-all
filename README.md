@@ -21,6 +21,10 @@
 - Functional lit element: https://github.com/evtaylor/functional-lit-element
 - **Storybook and lit**: https://piyushsinha.tech/introduction-to-storybook-for-web-components
 
+- Lit and mixins: https://lit.dev/docs/composition/mixins/
+- Lit controllers: https://lit.dev/docs/composition/controllers/
+- Observables and lit: https://adrianfaciu.dev/posts/observables-litelement/
+
 ## SSGs
 
 - Vuepress: https://vuepress.vuejs.org/
