@@ -12,6 +12,11 @@
 - More design system stuff: https://www.voorhoede.nl/en/blog/how-to-select-framework-design-system-components/
 - Another design system: https://shoelace.style/
 - **Build design system with lit and storybook**: https://www.youtube.com/watch?v=cL0kDD4g5P8
+- Vaadin video on lit and styles: https://www.youtube.com/watch?v=jbeaLaIrZDg
+- Lit and Mobx: https://www.youtube.com/watch?v=MNxnZ8pzSBo
+- Lit tutorial by Vaadin: https://www.youtube.com/watch?v=UcCsGZDCw-Q&list=PLcRrh9hGNalntG2rSxMJAilOWHnlSoHKI
+- Why lit is so fast: https://www.youtube.com/watch?v=CJYkwDTaHzY&t=19s
+- More on lit (in Spanish): https://lenguajejs.com/webcomponents/lit/css-en-litelement/
 - 
 
 ## SSGs
