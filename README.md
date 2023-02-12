@@ -17,7 +17,8 @@
 - Lit tutorial by Vaadin: https://www.youtube.com/watch?v=UcCsGZDCw-Q&list=PLcRrh9hGNalntG2rSxMJAilOWHnlSoHKI
 - Why lit is so fast: https://www.youtube.com/watch?v=CJYkwDTaHzY&t=19s
 - More on lit (in Spanish): https://lenguajejs.com/webcomponents/lit/css-en-litelement/
-- 
+- Web components and headless CMS: https://dev.to/jakelumetta/using-web-components-with-a-headless-cms-25hf
+- Functional lit element: https://github.com/evtaylor/functional-lit-element
 
 ## SSGs
 
