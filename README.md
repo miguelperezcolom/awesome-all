@@ -36,4 +36,43 @@
 - CORS: https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 - More CORS: https://web.dev/i18n/en/cross-origin-resource-sharing/
 - Keycloak js adapter: https://www.keycloak.org/docs/latest/securing_apps/#_javascript_adapter
+
+## Videos
+
+- Onion and hexagonal. https://www.youtube.com/watch?v=oC2Ty8H9jck
+- Hexagonal and clean: https://www.youtube.com/watch?v=bRl-sTvLbsI
+- CQS and CQRS: https://www.youtube.com/watch?v=cqNGAo-9pUE
+- Event sourcing: https://www.youtube.com/watch?v=yFjzGRb8NOk
+- Event modeling: https://www.youtube.com/watch?v=cVyVmcwiPWw
+- Event driven micro services: https://www.youtube.com/watch?v=jrbWIS7BH70
+- Event modeling: https://www.youtube.com/watch?v=ufKgwjsD1l8
+- Event sourcing: https://www.youtube.com/watch?v=ck7t592bvBg
+- Aggregates: https://www.youtube.com/watch?v=zlFqjD2LKlE
+- Aggregate modeling: https://www.youtube.com/watch?v=E2ctgrKhqBw
+- DDD from codely: https://www.youtube.com/watch?v=dH5aSQLXtKg
+- Practical architecture: https://www.youtube.com/watch?v=BNTt2aLB1tg
+- bounded contexts and subdomains: https://www.youtube.com/watch?v=NvBsEnDgA4o
+
+## Topics:
+
+- https://medium.com/@nina.trausner/mastering-openapi-a-comprehensive-guide-to-building-and-integrating-openapi-in-your-spring-boot-8613f633b6c0
+- https://www.baeldung.com/liquibase-vs-flyway
+- CDC with debezium
+- https://lit.dev/docs/tools/publishing/#publishing-best-practices
+- https://classic.yarnpkg.com/lang/en/docs/workspaces/
+- https://nx.dev/showcase/example-repos/add-lit
+- https://www.youtube.com/watch?v=3C_7sxdZLa4
+- https://dev.to/gridou/announcing-jnxplus-nx-boot-maven-4g28
+- https://blog.nrwl.io/on-bazel-support-6be3b3ceba29
+- https://scal.io/work/bazel-nx-monorepo
+- https://blog.nrwl.io/nx-%EF%B8%8F-bazel-release-plans-eaed5bbaa3ba
+- https://medium.com/javarevisited/3-key-advantages-why-experienced-developers-choose-bazel-over-gradle-d3064821181b
+- conventional commits
+- https://medium.com/deutsche-telekom-gurgaon/safeguarding-your-data-the-magic-of-jasypt-in-spring-boot-732864ae9af3
+- https://itnext.io/battle-quarkus-3-7-2-vs-micronaut-4-3-1-vs-spring-boot-3-2-2-8d6765e15e45
+- https://medium.com/@ayushjung63/redis-cache-for-api-response-optimization-54a508d9e79c
+- https://medium.com/@vivekkadiyanits/retryable-a-retry-pattern-of-spring-boot-bf85290b8404
+- https://medium.com/deutsche-telekom-gurgaon/simplifying-microservices-communication-with-spring-cloud-openfeign-c9f65f6c15bf
+- https://medium.com/deutsche-telekom-gurgaon/dynamic-json-response-filtering-in-spring-boot-using-squiggly-696ee8014d01
+- https://medium.com/spring-boot-tips-and-tricks/dynamic-proxies-and-cglib-in-spring-framework-dcc4a9febdd5
 - 
