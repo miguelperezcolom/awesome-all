@@ -55,7 +55,30 @@
 
 ## Topics:
 
+- https://carloarg02.medium.com/my-favorite-coding-question-to-give-candidates-17ea4758880c
+- https://levelup.gitconnected.com/experienced-spring-spring-boot-interview-questions-for-java-developers-2023-5-10-years-157c22c85e04
+- https://medium.com/@vivekkadiyanits/tricky-java-architect-interview-question-356d6027d895
+- https://medium.com/@malvin.lok/for-java-developer-3-lombok-functions-that-will-blow-your-mind-7d1970298d95
+- https://medium.com/@malvin.lok/how-to-elegantly-remove-if-else-in-your-java-code-27b2393544ae
+- https://medium.com/@malvin.lok/say-goodbye-to-stringutil-by-optimizing-your-code-with-javas-new-string-api-fd34ff512876
+- https://medium.com/@malvin.lok/for-java-developers-forget-beanutils-and-trade-for-performance-and-code-simplicity-by-mapstruct-b8934c830094
+- https://medium.com/capital-one-tech/10-microservices-design-patterns-for-better-architecture-befa810ca44e
+- https://medium.com/data-science-community-srm/json-is-incredibly-slow-heres-what-s-faster-ca35d5aaf9e8
+- https://medium.com/@mertkagan/spring-data-rest-say-goodbye-to-controller-and-service-1acb6c7437f1
+- 
+- 
+- pact vs spring contract testing
+- 
+- https://medium.com/@sangjinn/comparing-blue-green-deployment-and-canary-deployment-f0abb3b4a8f7
+- 
+- https://docs.npmjs.com/cli/v7/using-npm/workspaces
 - https://medium.com/@nina.trausner/mastering-openapi-a-comprehensive-guide-to-building-and-integrating-openapi-in-your-spring-boot-8613f633b6c0
+- https://www.baeldung.com/reactor-exceptions
+- https://medium.com/javarevisited/five-mistakes-to-avoid-in-reactive-java-786927ffd2f6
+- https://medium.com/jeroen-rosenberg/10-pitfalls-in-reactive-programming-de5fe042dfc6
+- https://www.baeldung.com/java-reactor-map-flatmap
+- https://medium.com/javarevisited/map-vs-flatmap-d027df9b9b56
+- 
 - https://www.baeldung.com/liquibase-vs-flyway
 - CDC with debezium
 - https://lit.dev/docs/tools/publishing/#publishing-best-practices
