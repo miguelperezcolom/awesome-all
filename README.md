@@ -99,6 +99,18 @@
 - https://itnext.io/battle-quarkus-3-7-2-vs-micronaut-4-3-1-vs-spring-boot-3-2-2-8d6765e15e45
 - https://medium.com/@ayushjung63/redis-cache-for-api-response-optimization-54a508d9e79c
 - https://medium.com/@vivekkadiyanits/retryable-a-retry-pattern-of-spring-boot-bf85290b8404
+
+front
+- https://x-it.medium.com/how-to-track-anyones-ip-using-transparent-images-f6ffde7ad754
+
+pending:
+- https://medium.com/@gudise.ashok/mastering-complexity-unleashing-the-power-of-spring-integration-dsl-for-building-robust-f67991078d3b
+- https://medium.com/@furkanalniak/exploring-rxjava-a-dive-into-asynchronous-and-event-driven-programming-in-java-8fbbe7cc351d
+- https://medium.com/@ankithahjpgowda/spring-retry-overview-6674b06a3235
+- https://awskarthik82.medium.com/how-to-integrate-java-spring-boot-application-with-okta-using-oidc-67105f713a31
+- https://medium.com/javarevisited/implementing-cache-using-caffeine-in-a-spring-boot-api-that-uses-spring-data-jpa-and-postgresql-3220cabacdc7
+- https://medium.com/@kapincev/a-developers-guide-to-integrating-minio-with-angular-and-spring-boot-3d77c13aefc7
+- 
 - https://medium.com/deutsche-telekom-gurgaon/simplifying-microservices-communication-with-spring-cloud-openfeign-c9f65f6c15bf
 - https://medium.com/deutsche-telekom-gurgaon/dynamic-json-response-filtering-in-spring-boot-using-squiggly-696ee8014d01
 - https://medium.com/spring-boot-tips-and-tricks/dynamic-proxies-and-cglib-in-spring-framework-dcc4a9febdd5
