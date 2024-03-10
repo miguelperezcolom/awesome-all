@@ -122,5 +122,6 @@
 
 - https://spring.io/blog/2019/12/13/flight-of-the-flux-3-hopping-threads-and-schedulers
 - https://stackoverflow.com/questions/61304762/difference-between-boundedelastic-vs-parallel-scheduler
+- https://projectreactor.io/docs/core/release/api/reactor/core/scheduler/Schedulers.html
 
   
