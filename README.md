@@ -100,10 +100,12 @@
 - https://medium.com/@ayushjung63/redis-cache-for-api-response-optimization-54a508d9e79c
 - https://medium.com/@vivekkadiyanits/retryable-a-retry-pattern-of-spring-boot-bf85290b8404
 
-front
+## front
+
 - https://x-it.medium.com/how-to-track-anyones-ip-using-transparent-images-f6ffde7ad754
 
-pending:
+## pending
+
 - https://medium.com/@gudise.ashok/mastering-complexity-unleashing-the-power-of-spring-integration-dsl-for-building-robust-f67991078d3b
 - https://medium.com/@furkanalniak/exploring-rxjava-a-dive-into-asynchronous-and-event-driven-programming-in-java-8fbbe7cc351d
 - https://medium.com/@ankithahjpgowda/spring-retry-overview-6674b06a3235
@@ -115,3 +117,10 @@ pending:
 - https://medium.com/deutsche-telekom-gurgaon/dynamic-json-response-filtering-in-spring-boot-using-squiggly-696ee8014d01
 - https://medium.com/spring-boot-tips-and-tricks/dynamic-proxies-and-cglib-in-spring-framework-dcc4a9febdd5
 - 
+
+## reactor
+
+- https://spring.io/blog/2019/12/13/flight-of-the-flux-3-hopping-threads-and-schedulers
+- https://stackoverflow.com/questions/61304762/difference-between-boundedelastic-vs-parallel-scheduler
+
+  
