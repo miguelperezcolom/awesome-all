@@ -124,4 +124,8 @@
 - https://stackoverflow.com/questions/61304762/difference-between-boundedelastic-vs-parallel-scheduler
 - https://projectreactor.io/docs/core/release/api/reactor/core/scheduler/Schedulers.html
 
+## gradle
+
+- https://blog.stackademic.com/the-most-condensed-guide-to-publish-to-maven-central-with-gradle-1b612b1b9c40
+- 
   
