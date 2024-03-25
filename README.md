@@ -127,5 +127,12 @@
 ## gradle
 
 - https://blog.stackademic.com/the-most-condensed-guide-to-publish-to-maven-central-with-gradle-1b612b1b9c40
-- 
+
+## design patterns
+
+- https://learn.microsoft.com/en-us/azure/architecture/patterns/bulkhead
+
+## to read
+
+- https://surviving-software-architecture.ghost.io/zero-trust-architectures/
   
