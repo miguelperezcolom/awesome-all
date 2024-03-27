@@ -135,4 +135,8 @@
 ## to read
 
 - https://surviving-software-architecture.ghost.io/zero-trust-architectures/
+
+## spring security
+
+- https://github.com/spring-projects/spring-security/issues/4790
   
