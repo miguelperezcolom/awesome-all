@@ -139,4 +139,8 @@
 ## spring security
 
 - https://github.com/spring-projects/spring-security/issues/4790
+
+## spring boot tests
+
+- https://reflectoring.io/spring-boot-test/
   
