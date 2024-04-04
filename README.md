@@ -150,6 +150,7 @@
 
 ## actor model
 
+- https://www.youtube.com/watch?v=mQI2C5VxneU
 - https://cs.stackexchange.com/questions/9038/how-do-functional-reactive-programming-and-the-actor-model-relate-to-each-othe
 - https://medium.com/@manish.c.ghildiyal/reactive-architecture-and-actor-model-a38214a404a4
 - https://www.baeldung.com/akka-with-spring
