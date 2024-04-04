@@ -148,6 +148,13 @@
 
 - https://hazelcast.com/blog/migrating-from-imperative-to-reactive/
 
+## actor model
+
+- https://cs.stackexchange.com/questions/9038/how-do-functional-reactive-programming-and-the-actor-model-relate-to-each-othe
+- https://medium.com/@manish.c.ghildiyal/reactive-architecture-and-actor-model-a38214a404a4
+- https://www.baeldung.com/akka-with-spring
+- https://medium.com/analytics-vidhya/akka-streams-in-java-spring-boot-f7749cafb7f5
+
 ## DDD
 
 - https://medium.com/nick-tune-tech-strategy-blog/uncovering-hidden-business-rules-with-ddd-aggregates-67fb02abc4b
