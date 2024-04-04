@@ -147,4 +147,20 @@
 ## imperative to reactive
 
 - https://hazelcast.com/blog/migrating-from-imperative-to-reactive/
+
+## DDD
+
+- https://medium.com/nick-tune-tech-strategy-blog/uncovering-hidden-business-rules-with-ddd-aggregates-67fb02abc4b
+- https://www.jamesmichaelhickey.com/consistency-boundary/
+- https://devexpert.io/domain-driven-design-pt-2/
+- https://stackoverflow.com/questions/2268699/domain-driven-design-domain-service-application-service
+- https://medium.com/@carlosbueno.kinder/what-is-domain-services-how-to-use-it-6a590e26e29a
+- https://dev.to/ruben_alapont/domain-services-and-factories-in-domain-driven-design-55lo
+- https://softwareengineering.stackexchange.com/questions/330428/ddd-repositories-in-application-or-domain-service
+- https://softwareengineering.stackexchange.com/questions/330428/ddd-repositories-in-application-or-domain-service
+- https://domainmarketprice.com/2024/01/10/can-domain-service-use-repository-exploring-domain-driven-design/
+- https://medium.com/geekculture/how-to-respect-an-invariant-implicating-two-aggregate-roots-840f98b86c6a
+- https://www.linkedin.com/advice/0/how-do-you-design-aggregate-roots-complex?lang=en
+- https://dddinpython.com/index.php/2021/11/06/where-to-place-the-business-logic-in-ddd/
+- 
   
